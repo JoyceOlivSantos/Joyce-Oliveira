@@ -1,4 +1,4 @@
-## Olá! eu sou a Joyce-Oliveira
+## Olá! eu sou a Joyce Oliveira
 
 - 🤞 Proana 
 - 😀 Apredendo Kotlin 
